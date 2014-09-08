@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="hello">Hello World, TabExerciseActivity!</string>
-    <string name="app_name">XiaoChao</string>
-    <string name="tab1_name">Home Page</string>
-    <string name="tab2_name">Camp</string>
-    <string name="tab3_name">College Info</string>
-    <string name="tab4_name">Ben Post</string>
-</resources>

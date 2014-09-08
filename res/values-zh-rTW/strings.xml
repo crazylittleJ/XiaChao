@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-        <string name="hello">哈囉!</string>
-    <string name="app_name">夏潮</string>
-    <string name="tab1_name">首具</string>
-    <string name="tab2_name">交流</string>
-    <string name="tab3_name">就學</string>
-    <string name="tab4_name">犇報</string>
-</resources>
